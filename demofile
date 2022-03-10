@@ -1,1 +1,1 @@
-hello weexcel users 
+hello weexcel users Recently I was alerted by GitHub that I should stop using a username/password when using the GIT command line utility. Instead of a password, I should be using a Personal Access Token that is more flexible and easier to secure. This is a brief walk-through of how to setup and use these tokens. 
